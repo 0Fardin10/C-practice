@@ -1,0 +1,8 @@
+
+Easy
+Question 1: What software company is headquartered in Redmond, Washington? Answer: Microsoft
+Question 2: What is a word, phrase, number, or other sequence of characters that reads the same backward as forward? Answer: Palindrome
+Question 3: What is the world’s largest retailer as of 2026? Answer: Walmart
+Question 4: Which day of the week does the Jewish Sabbath begin? Answer: Friday
+Question 5: What phone company produced the 3310? Answer: Nokia
+Question 6: What company was initially known as "Blue Ribbon Sports"? Answer: Nike
