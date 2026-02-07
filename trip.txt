@@ -1,0 +1,2 @@
+diabari trip 
+collectd:100
